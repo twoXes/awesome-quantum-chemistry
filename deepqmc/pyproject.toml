@@ -1,0 +1,78 @@
+[build-system]
+requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning>=0.12.3"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "deepqmc"
+version = "0.0.0"
+description = "Deep-learning quantum Monte Carlo for electrons in real space"
+authors = [
+    "Jan Hermann <jan.hermann@fu-berlin.de>",
+    "Zeno Schätzle <zenoone@physik.fu-berlin.de>",
+]
+readme = "README.md"
+packages = [
+    { include = "deepqmc", from = "src" },
+]
+repository = "https://github.com/deepqmc/deepqmc"
+documentation = "https://deepqmc.github.io"
+license = "MIT"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Environment :: GPU :: NVIDIA CUDA",
+    "Intended Audience :: Science/Research",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: POSIX :: Linux",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Chemistry",
+    "Topic :: Scientific/Engineering :: Physics",
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+toml = "^0.10.0"
+uncertainties = "^3.1.2"
+numpy = "^1.16"
+torch = "^1.2"
+scipy = { version = "^1.2", optional = true }
+pyscf = { version = "^1.6", optional = true, allow-prereleases = true }
+pytest = { version = ">=5 <7", optional = true }
+coverage = { version = ">=4.5 <6", optional = true }
+tensorboard = { version = "^2.0", optional = true }
+tqdm = { version = "^4.31", optional = true }
+h5py = { version = ">=2.10.0 <4", optional = true }
+sphinx = { version = "^2.2", optional = true }
+Pillow = { version = ">=7 <9", optional = true }
+sphinxcontrib-katex = { version = "^0.5.1", optional = true }
+click = { version = "^7.0", optional = true }
+tomlkit = { version = "^0.7.0", optional = true }
+
+[tool.poetry.extras]
+wf = ["scipy", "pyscf"]
+test = ["pytest", "coverage"]
+train = ["tensorboard", "tqdm", "h5py", "Pillow"]
+cli = ["click", "tomlkit"]
+doc = ["sphinx", "sphinxcontrib-katex"]
+all = ["scipy", "pyscf", "pytest", "coverage", "tensorboard", "tqdm", "h5py", "Pillow", "click", "tomlkit"]
+
+[tool.poetry.dev-dependencies]
+flake8 = "^3.5"
+flake8-bugbear = ">=18.8"
+flake8-comprehensions = ">=1.4"
+flake8-quotes = ">=2"
+black = ">=20-beta.0"
+pep8-naming = ">=0.7"
+isort = "^4.3"
+pydocstyle = "^5.0.1"
+
+[tool.poetry.scripts]
+deepqmc = "deepqmc.cli:cli"
+
+[tool.poetry-dynamic-versioning]
+enable = true
+pattern = '^(?P<base>\d+\.\d+\.\d+)$'
+
+[tool.black]
+target-version = ["py37"]
+skip-string-normalization = true

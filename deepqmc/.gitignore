@@ -1,0 +1,9 @@
+*.pyc
+/poetry.lock
+/pip-wheel-metadata/
+/src/*.egg-info/
+/dist/
+/htmlcov/
+/.coverage
+/doc/build/
+/runs

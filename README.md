@@ -1,6 +1,6 @@
 # Awesome Quantum Simulation ML
 
-<img src="qsim.png" width="500" height="500" /> 
+<img src="qsim.png" width="800" height="400" /> 
 
 # Examining FermiNet
 *a dive into FermiNet & how it works* 

@@ -10,6 +10,8 @@ In the beginning there was the urge to [Solve the Quantum many body problem.](ht
 > However, Nature often proves herself benevolent, and a [wave function](https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.02%3A_Wavefunctions) representing a physical many-body system can
 be typically characterized by an amount of information much smaller than the maximum capacity of the corresponding [Hilbert space](https://youtu.be/g-eNeXlZKAQ). A limited amount of [quantum entanglement](https://www.quantamagazine.org/entanglement-made-simple-20160428/), as well as the typicality of a small number of physical states, are then the blocks on which modern approaches build upon to solve the many-body [Schrödinger’s equation](https://plus.maths.org/content/schrodinger-1) with a limited amount of classical resources.
 
+![Quantum ANN](quantum_ann.png)
+
 # FermiNet
 *a dive into FermiNet & how it works* 
 

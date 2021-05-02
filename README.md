@@ -7,8 +7,8 @@
 In the beginning there was the urge to [Solve the Quantum many body problem.](https://arxiv.org/pdf/1606.02318.pdf)
 
 > In principle, an exponential amount of information is needed to fully encode a generic many-body quantum state.
-> However, Nature often proves herself benevolent, and a wave function representing a physical many-body system can
-be typically characterized by an amount of information much smaller than the maximum capacity of the corresponding Hilbert space. A limited amount of quantum entanglement, as well as the typicality of a small number of physical states, are then the blocks on which modern approaches build upon to solve the many-body Schrödinger’s equation with a limited amount of classical resources.
+> However, Nature often proves herself benevolent, and a [wave function](https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.02%3A_Wavefunctions) representing a physical many-body system can
+be typically characterized by an amount of information much smaller than the maximum capacity of the corresponding [Hilbert space](https://youtu.be/g-eNeXlZKAQ). A limited amount of [quantum entanglement](https://www.quantamagazine.org/entanglement-made-simple-20160428/), as well as the typicality of a small number of physical states, are then the blocks on which modern approaches build upon to solve the many-body [Schrödinger’s equation](https://plus.maths.org/content/schrodinger-1) with a limited amount of classical resources.
 
 # FermiNet
 *a dive into FermiNet & how it works* 
@@ -166,6 +166,8 @@ def default() -> ml_collections.ConfigDict:
 (2020) [Variational Principles in Quantum Monte Carlo: The Troubled Story of Variance Minimization](https://pubs.acs.org/doi/10.1021/acs.jctc.0c00147)
 
 (2020) [Fermionic neural-network states for ab-initio electronic structure](https://www.nature.com/articles/s41467-020-15724-9)
+
+(2020) [Data Driven Science & Engineering:Machine Learning, Dynamical Systems and Control](http://databookuw.com/)
 
 (2019) [Quantum Entanglement in Deep Learning Architectures](https://arxiv.org/pdf/1803.09780.pdf)
 

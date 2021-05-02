@@ -4,6 +4,12 @@
 
 [source](https://youtu.be/_bdvpmleAgw)
 
+In the beginning there was the urge to [Solve the Quantum many body problem.](https://arxiv.org/pdf/1606.02318.pdf)
+
+> In principle, an exponential amount of information is needed to fully encode a generic many-body quantum state.
+> However, Nature often proves herself benevolent, and a wave function representing a physical many-body system can
+be typically characterized by an amount of information much smaller than the maximum capacity of the corresponding Hilbert space. A limited amount of quantum entanglement, as well as the typicality of a small number of physical states, are then the blocks on which modern approaches build upon to solve the many-body Schrödinger’s equation with a limited amount of classical resources.
+
 # FermiNet
 *a dive into FermiNet & how it works* 
 

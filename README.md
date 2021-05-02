@@ -4,7 +4,7 @@
 
 [source](https://youtu.be/_bdvpmleAgw)
 
-# Examining FermiNet
+# FermiNet
 *a dive into FermiNet & how it works* 
 
 FermiNet is the implementation of the (2020) paper ["Ab-Initio Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks"](https://arxiv.org/pdf/1909.02487.pdf)
@@ -148,6 +148,8 @@ def default() -> ml_collections.ConfigDict:
  Default returns a [mlcollections.ConfigDict]()
  
  > ConfigDict...is a "dict-like" data structure with dot access to nested elements...Supposed to be used as a main way of expressing configurations of experiments and models.
+
+# PauliNet
 
 ## References 
 

@@ -2,6 +2,9 @@
 *A curated list of awesome quantum chemistry frameworks, libraries, software and resources.*
 
 
+![chemistry](beaker.gif)
+
+
 Textbooks on Cheminformatics & Quantum Chemistry strangle the subject to sleep 😴 and command a wild price 🤑 for the naps they induce.
 
 Want a better way to learn than some random repo on github? 
@@ -15,8 +18,6 @@ Information should be cheap, fast enjoyable, silly, shared, disproven, contested
 Knowledge hodlers, and innovation stifflers are boring and old. This is for the young chemists of mind and spirit 🚼 that are looking for cheap ways to mine gold. 
 
 ## Tools 
-
-![chemistry](beaker.gif)
 
 #### [DeepQMC/PauliNet](https://deepqmc.github.io/index.html) 
 

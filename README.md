@@ -1,6 +1,19 @@
 # Awesome Quantum Chemistry
 *A curated list of awesome quantum chemistry frameworks, libraries, software and resources.*
 
+
+Textbooks on Cheminformatics & Quantum Chemistry strangle the subject to sleep 😴 and command a wild price 🤑 for the naps they induce.
+
+Want a better way to learn than some random repo on github? 
+
+Spend 4-12 years of your life and hundreds of thousands of dollars chasing a paper with a stamp on it 🥇.
+
+Or feed yourself 🍼.
+
+Information should be cheap, fast enjoyable, silly, shared, disproven, contested, and most of all free.
+
+Knowledge hodlers, and innovation stifflers are boring and old. This is for the young chemists of mind and spirit 🚼 that are looking for cheap ways to mine gold. 
+
 ## Tools 
 
 ![chemistry](beaker.gif)

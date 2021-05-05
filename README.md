@@ -50,6 +50,8 @@
 
 [NWChem](https://www.nwchem-sw.org/)
 
+## Machine Learning the Schrodinger Equation
+
 <img src="qsim.png" width="800" height="500" /> 
 
 [source](https://youtu.be/_bdvpmleAgw)
@@ -63,10 +65,7 @@ be typically characterized by an amount of information much smaller than the max
 
 <img src="quantum_ann.png" width="60%" height="50%" />
 
-
-
 # FermiNet
-*a dive into FermiNet & how it works* 
 
 FermiNet is the implementation of the (2020) paper ["Ab-Initio Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks"](https://arxiv.org/pdf/1909.02487.pdf)
 

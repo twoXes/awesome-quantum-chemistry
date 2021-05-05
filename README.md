@@ -1,5 +1,54 @@
 # Awesome Quantum Chemistry
 
+## Tools 
+
+![chemistry](chemistry.gif)
+
+[NWChem](https://www.nwchem-sw.org/)
+
+### [DeepQMC/PauliNet](https://deepqmc.github.io/index.html) 
+
+*Deep-learning quantum Monte Carlo for electrons in real space*
+
+  * [ :bookmark_tabs: Publication](https://arxiv.org/pdf/1909.08423.pdf): (2020) Deep-neural-network solution of the electronic Schrödinger equation
+  * [:floppy_disk: Github](https://github.com/deepqmc/deepqmc)
+
+### [FermiNet](https://deepmind.com/blog/article/FermiNet)
+
+*Implementation of the Fermionic Neural Network for ab-initio electronic structure calculations*
+
+  * [:bookmark_tabs: Publication](https://arxiv.org/abs/1909.02487): (2020) Ab-Initio Solution of the Many-Electron Schrödinger Equation with Deep Neural Networks
+
+  * [:floppy_disk: GitHub Code](https://github.com/deepmind/ferminet)
+
+### [Hande](http://www.hande.org.uk/ent)
+
+*Highly parallel code for stochastic quantum chemistry. Can be used as standalone program or library from an existing quantum chemistry code.*
+
+  * [:bookmark_tabs:  Publication](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01217)
+  * [:floppy_disk: : GitHub](https://github.com/hande-qmc/hande)
+
+### [PySCF](http://pyscf.org/) 
+
+*Simple, lightweight, and efficient python platform for quantum chemistry calculations and methodology development.*
+
+  * [:bookmark_tabs: Publication](https://authors.library.caltech.edu/74078/1/1701.08223.pdf)
+  * [:bookmark_tabs: Documentation](http://pyscf.org/pyscf/overview.html)
+  * [:floppy_disk: Github](https://github.com/pyscf/pyscf)
+  * [:floppy_disk: mpi4pyscf](https://github.com/pyscf/mpi4pyscf) - Message Passing Interface parallelism
+
+### [PSi4](https://psicode.org/) 
+
+*Suite of ab initio quantum chemistry programs designed for efficient, high-accuracy simulations of molecular properties*
+
+  * [:bookmark_tabs: Documentation](https://psicode.org/psi4manual/master/index.html)
+  * [:floppy_disk: Github](https://github.com/psi4/psi4/)
+
+### [QMCTorch](https://qmctorch.readthedocs.io/en/latest/) 
+
+*Pytorch Implementation of Real Space Quantum Monte Carlo Simulations of Molecular Systems*
+  * [:floppy_disk: Github](https://github.com/NLESC-JCER/QMCTorch)
+
 <img src="qsim.png" width="800" height="500" /> 
 
 [source](https://youtu.be/_bdvpmleAgw)
@@ -12,6 +61,8 @@
 be typically characterized by an amount of information much smaller than the maximum capacity of the corresponding [Hilbert space](https://youtu.be/g-eNeXlZKAQ). A limited amount of [quantum entanglement](https://www.quantamagazine.org/entanglement-made-simple-20160428/), as well as the typicality of a small number of physical states, are then the blocks on which modern approaches build upon to solve the many-body [Schrödinger’s equation](https://plus.maths.org/content/schrodinger-1) with a limited amount of classical resources.
 
 <img src="quantum_ann.png" width="60%" height="50%" />
+
+
 
 # FermiNet
 *a dive into FermiNet & how it works* 

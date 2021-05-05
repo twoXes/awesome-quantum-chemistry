@@ -12,7 +12,7 @@
   * [ :bookmark_tabs: Publication](https://arxiv.org/pdf/1909.08423.pdf): (2020) Deep-neural-network solution of the electronic Schrödinger equation
   * [:floppy_disk: Github](https://github.com/deepqmc/deepqmc)
 
-### [FermiNet](https://deepmind.com/blog/article/FermiNet)
+#### [FermiNet](https://deepmind.com/blog/article/FermiNet)
 
 *Implementation of the Fermionic Neural Network for ab-initio electronic structure calculations*
 
@@ -20,14 +20,14 @@
 
   * [:floppy_disk: GitHub Code](https://github.com/deepmind/ferminet)
 
-### [Hande](http://www.hande.org.uk/ent)
+#### [Hande](http://www.hande.org.uk/ent)
 
 *Highly parallel code for stochastic quantum chemistry. Can be used as standalone program or library from an existing quantum chemistry code.*
 
   * [:bookmark_tabs:  Publication](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01217)
   * [:floppy_disk: : GitHub](https://github.com/hande-qmc/hande)
 
-### [PySCF](http://pyscf.org/) 
+#### [PySCF](http://pyscf.org/) 
 
 *Simple, lightweight, and efficient python platform for quantum chemistry calculations and methodology development.*
 
@@ -36,19 +36,19 @@
   * [:floppy_disk: Github](https://github.com/pyscf/pyscf)
   * [:floppy_disk: mpi4pyscf](https://github.com/pyscf/mpi4pyscf) - Message Passing Interface parallelism
 
-### [PSi4](https://psicode.org/) 
+#### [PSi4](https://psicode.org/) 
 
 *Suite of ab initio quantum chemistry programs designed for efficient, high-accuracy simulations of molecular properties*
 
   * [:bookmark_tabs: Documentation](https://psicode.org/psi4manual/master/index.html)
   * [:floppy_disk: Github](https://github.com/psi4/psi4/)
 
-### [QMCTorch](https://qmctorch.readthedocs.io/en/latest/) 
+#### [QMCTorch](https://qmctorch.readthedocs.io/en/latest/) 
 
 *Pytorch Implementation of Real Space Quantum Monte Carlo Simulations of Molecular Systems*
   * [:floppy_disk: Github](https://github.com/NLESC-JCER/QMCTorch)
 
-[NWChem](https://www.nwchem-sw.org/)
+#### [NWChem](https://www.nwchem-sw.org/)
 
 ## Machine Learning the Schrodinger Equation
 

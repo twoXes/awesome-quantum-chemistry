@@ -1,4 +1,4 @@
-# Awesome Quantum Simulation ML
+# Awesome Quantum Chemistry
 
 <img src="qsim.png" width="800" height="500" /> 
 

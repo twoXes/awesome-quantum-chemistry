@@ -1,12 +1,11 @@
 # Awesome Quantum Chemistry
+*A curated list of awesome quantum chemistry frameworks, libraries, software and resources.*
 
 ## Tools 
 
 ![chemistry](beaker.gif)
 
-[NWChem](https://www.nwchem-sw.org/)
-
-### [DeepQMC/PauliNet](https://deepqmc.github.io/index.html) 
+#### [DeepQMC/PauliNet](https://deepqmc.github.io/index.html) 
 
 *Deep-learning quantum Monte Carlo for electrons in real space*
 
@@ -48,6 +47,8 @@
 
 *Pytorch Implementation of Real Space Quantum Monte Carlo Simulations of Molecular Systems*
   * [:floppy_disk: Github](https://github.com/NLESC-JCER/QMCTorch)
+
+[NWChem](https://www.nwchem-sw.org/)
 
 <img src="qsim.png" width="800" height="500" /> 
 

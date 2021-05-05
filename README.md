@@ -72,6 +72,12 @@ Knowledge hodlers, and innovation stifflers are boring and old. This is for the 
 
 ## [Solving the Quantum Many-Body Problem with Artificial Neural Networks (2016)](https://arxiv.org/pdf/1606.02318.pdf)
 
+* 💻 [code version from the authors](https://gitlab.com/nqs)
+
+* 💻 [version of the paper in code](https://github.com/zeldredge/py-nqs)
+
+* 💻 [version of the paper in Jupyter Notebook](https://github.com/bartolsthoorn/NQS-numpy/blob/master/NQS.ipynb)
+
 > In principle, an exponential amount of information is needed to fully encode a generic [many-body quantum state](https://youtu.be/uTCeQHzQMdc).
 
 > However, Nature often proves herself benevolent, and a [wave function](https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.02%3A_Wavefunctions) representing a physical many-body system can

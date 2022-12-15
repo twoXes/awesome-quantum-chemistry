@@ -233,6 +233,8 @@ def default() -> ml_collections.ConfigDict:
 
 ## References 
 
+(2021) [A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/abs/2101.11365)
+
 (2020) ["Ab-Initio Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks"](https://arxiv.org/pdf/1909.02487.pdf) - FermiNet
 
 (2020) [Deep neural network solution of the electronic Schrödinger equation](https://arxiv.org/pdf/1909.08423.pdf) - PauliNet

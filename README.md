@@ -229,7 +229,6 @@ def default() -> ml_collections.ConfigDict:
  
  > ConfigDict...is a "dict-like" data structure with dot access to nested elements...Supposed to be used as a main way of expressing configurations of experiments and models.
 
-# PauliNet
 
 ## References 
 
@@ -257,7 +256,7 @@ def default() -> ml_collections.ConfigDict:
 
 (2019) [Variational Quantum Monte Carlo Method with a Neural-Network Ansatz for Open Quantum Systems](https://arxiv.org/pdf/1902.09483.pdf)
 
-(2018) [Quantum Chemical Approaches in Structure-Based Virtual Screening and Lead Optimization (https://www.frontiersin.org/articles/10.3389/fchem.2018.00188/full)
+(2018) [Quantum Chemical Approaches in Structure-Based Virtual Screening and Lead Optimization](https://www.frontiersin.org/articles/10.3389/fchem.2018.00188/full)
 
 (2016) [Solving the Quantum Many-Body Problem with Artificial Neural Networks](https://arxiv.org/pdf/1606.02318.pdf)
 

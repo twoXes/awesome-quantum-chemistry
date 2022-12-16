@@ -233,6 +233,8 @@ def default() -> ml_collections.ConfigDict:
 
 ## References 
 
+(2021) [QUANTUM MONTE-CARLO INTEGRATION: THE FULL ADVANTAGE IN MINIMAL CIRCUIT DEPTH](https://arxiv.org/pdf/2105.09100.pdf)
+
 (2021) [A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/abs/2101.11365)
 
 (2020) ["Ab-Initio Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks"](https://arxiv.org/pdf/1909.02487.pdf) - FermiNet
@@ -245,8 +247,20 @@ def default() -> ml_collections.ConfigDict:
 
 (2020) [Data Driven Science & Engineering:Machine Learning, Dynamical Systems and Control](http://databookuw.com/)
 
+(2020) [Better, Faster Fermionic Neural Networks](https://arxiv.org/pdf/2011.07125.pdf)
+
 (2019) [Quantum Entanglement in Deep Learning Architectures](https://arxiv.org/pdf/1803.09780.pdf)
+
+(2019) [Solving Many-Electron Schrodinger Equation Using Deep Neural Networks](https://arxiv.org/pdf/1807.07014.pdf)
+
+(2019) [Variational neural network ansatz for steady states in open quantum systems](https://arxiv.org/pdf/1902.10104.pdf)
+
+(2019) [Variational Quantum Monte Carlo Method with a Neural-Network Ansatz for Open Quantum Systems](https://arxiv.org/pdf/1902.09483.pdf)
+
+(2018) [Quantum Chemical Approaches in Structure-Based Virtual Screening and Lead Optimization (https://www.frontiersin.org/articles/10.3389/fchem.2018.00188/full)
 
 (2016) [Solving the Quantum Many-Body Problem with Artificial Neural Networks](https://arxiv.org/pdf/1606.02318.pdf)
 
 (2015) [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/abs/1503.05671)
+
+(2006) [MontePython: Implementing Quantum Monte Carlo using Python](https://arxiv.org/pdf/physics/0609191.pdf)
